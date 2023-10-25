@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bguser2"
+    tools:context=".UserExploreActivity">
+
+    <TextView
+        android:id="@+id/text_vi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:text="Select Place"
+        android:textColor="#fff"
+        android:textSize="30dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="122dp"
+        android:backgroundTint="@color/black"
+        android:textStyle="bold"
+        android:textSize="17dp"
+        android:onClick="r"
+        android:text="Idukki" />
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="122dp"
+        android:layout_marginLeft="110dp"
+        android:backgroundTint="@color/black"
+        android:textStyle="bold"
+        android:textSize="17dp"
+        android:onClick="r"
+        android:text="Kollam" />
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="122dp"
+        android:layout_marginLeft="240dp"
+        android:backgroundTint="@color/black"
+        android:textStyle="bold"
+        android:textSize="17dp"
+        android:onClick="r"
+        android:text="Palakkad" />
+
+
+
+
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="177dp"
+        android:backgroundTint="@color/black"
+        android:textStyle="bold"
+        android:textSize="17dp"
+        android:onClick="r"
+        android:text="Wayanad" />
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="177dp"
+        android:layout_marginLeft="119dp"
+        android:backgroundTint="@color/black"
+        android:textStyle="bold"
+        android:textSize="17dp"
+        android:onClick="r"
+        android:text="Alappuzha" />
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="177dp"
+        android:layout_marginLeft="249dp"
+        android:backgroundTint="@color/black"
+        android:textStyle="bold"
+        android:textSize="17dp"
+        android:onClick="r"
+        android:text="Ernakulam" />
+
+
+
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="232dp"
+        android:backgroundTint="@color/black"
+        android:textStyle="bold"
+        android:textSize="17dp"
+        android:onClick="r"
+        android:text="Kannur" />
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="232dp"
+        android:layout_marginLeft="110dp"
+        android:backgroundTint="@color/black"
+        android:textStyle="bold"
+        android:textSize="17dp"
+        android:onClick="r"
+        android:text="Alappuzha" />
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="232dp"
+        android:layout_marginLeft="247dp"
+        android:backgroundTint="@color/black"
+        android:textStyle="bold"
+        android:textSize="17dp"
+        android:onClick="r"
+        android:text="Malappuram" />
+
+
+
+
+    <Button
+        android:id="@+id/button10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="287dp"
+        android:backgroundTint="@color/black"
+        android:textStyle="bold"
+        android:textSize="17dp"
+        android:onClick="r"
+        android:text="Thrissur" />
+    <Button
+        android:id="@+id/button11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="287dp"
+        android:layout_marginLeft="110dp"
+        android:backgroundTint="@color/black"
+        android:textStyle="bold"
+        android:textSize="17dp"
+        android:onClick="r"
+        android:text="Kozhikode" />
+    <Button
+        android:id="@+id/button12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="287dp"
+        android:layout_marginLeft="240dp"
+        android:backgroundTint="@color/black"
+        android:textStyle="bold"
+        android:textSize="17dp"
+        android:onClick="r"
+        android:text="Pathanamthitta" />
+
+
+
+
+
+    <Button
+        android:id="@+id/button13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="342dp"
+        android:layout_marginLeft="60dp"
+        android:backgroundTint="@color/black"
+        android:textStyle="bold"
+        android:textSize="17dp"
+        android:onClick="r"
+        android:text="Kasaragod" />
+    <Button
+        android:id="@+id/button14"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="342dp"
+        android:layout_marginLeft="200dp"
+        android:backgroundTint="@color/black"
+        android:textStyle="bold"
+        android:textSize="17dp"
+        android:onClick="r"
+        android:text="Thiruvananthapuram" />
+
+</RelativeLayout>

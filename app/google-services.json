@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "665196208698",
+    "project_id": "spotvoyage-1c441",
+    "storage_bucket": "spotvoyage-1c441.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665196208698:android:faedbe1a25526a65f84b03",
+        "android_client_info": {
+          "package_name": "com.example.loginsignuptestcase1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyWysqbsWqPJS7WWRwcDiA56xSgxRlz7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
