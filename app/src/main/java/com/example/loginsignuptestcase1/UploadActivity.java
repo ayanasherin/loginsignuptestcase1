@@ -93,6 +93,7 @@ public class UploadActivity extends AppCompatActivity {
                 imageURL = urlImage.toString();
                 uploadData();
                 dialog.dismiss();
+                //test
             }
         }).addOnFailureListener(new OnFailureListener() {
             @Override
