@@ -94,6 +94,7 @@ public class UploadActivity extends AppCompatActivity {
                 uploadData();
                 dialog.dismiss();
                 //test
+                //test2
             }
         }).addOnFailureListener(new OnFailureListener() {
             @Override
